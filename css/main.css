@@ -551,6 +551,7 @@ body {
 
 .section__5_main {
     display: flex;
+    gap: 30px;
     align-items: center;
     justify-content: center;
     margin-top: 20px;
@@ -559,6 +560,7 @@ body {
 .section__5_main_block {
     width: 250px;
     height: 450px;
+
 }
 
 .s__5_rei {
